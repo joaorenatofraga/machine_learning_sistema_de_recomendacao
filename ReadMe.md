@@ -1,0 +1,1 @@
+Esse projeto cria um sistema de recomendação colaborativa, utilizando Machine Learning
